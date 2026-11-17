@@ -4,7 +4,7 @@ import os
 from datetime import datetime
 
 # ==========================================
-# CONFIGURATION
+# CONFIGURATION ############################
 # ==========================================
 
 COM_PORT = "COM6"
